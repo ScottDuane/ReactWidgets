@@ -1,0 +1,16 @@
+{
+  "name": "ReactWidgets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "widgets.jsx",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.0",
+    "redux": "^3.5.2"
+  }
+}
